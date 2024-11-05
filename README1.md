@@ -1,4 +1,7 @@
 https://fiestapets-ishi.myshopify.com/
+https://fiestapets-ishi.myshopify.com/?_ab=0&_fd=0&_sc=1
+https://demo.templatemonster.com/demo/339310.html
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
