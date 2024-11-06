@@ -34,3 +34,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+#https://fiestapets-ishi.myshopify.com/ 
+#https://fiestapets-ishi.myshopify.com/?_ab=0&_fd=0&_sc=1 
+#https://demo.templatemonster.com/demo/339310.html
